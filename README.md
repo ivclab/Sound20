@@ -16,6 +16,8 @@ Number of samples | 16,636 | 3,249 | 3,727
 
 ### Labels 
 
+Each sample is assigned to one of the 20 labels, which include sounds of drums, guitars, frogs, and insects. 
+
 Label | Description 
 ----- | -----------
 0 | Drum_FloorTom
