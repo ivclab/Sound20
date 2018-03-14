@@ -7,7 +7,7 @@ from keras import optimizers
 from keras import callbacks
 from keras.models import load_model
 from keras.backend.tensorflow_backend import set_session
-from models_utils import LRN, construct_LeNet, construct_VGG_F
+from model_utils import LRN, construct_LeNet, construct_VGG_F
 import scipy.io
 import argparse
 
