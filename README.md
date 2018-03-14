@@ -72,6 +72,7 @@ Note that each script will run training and testing procedures 10 times and stor
 The experimental results using **LeNet** and **VGG\_F** network structure. 
 
 Network structure | Testing Accuracy 
+----------------- | ----------------
 LeNet | 76.31%
 VGG_F | 78.92%
 
