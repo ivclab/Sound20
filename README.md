@@ -6,7 +6,7 @@ This is a dataset including 20 animal and instrument sounds. This dataset is con
 
 ## Data 
 
-You can find spectrograms of samples in `spectrogram_data.`
+You can find spectrograms of samples in `spectrogram_data`.
 
 ### Statistics 
 
@@ -66,7 +66,7 @@ For **VGG_F**, use
 ```
 sh scripts/run_VFF_F.sh 
 ```
-Note that each script will run training and testing procedures 10 times and store the Train, Val, Test accuracy. 
+Note that each script will run training and testing procedures and store the Train, Val, Test accuracy. 
 
 
 ### Experimental results 
@@ -75,6 +75,6 @@ The experimental results using **LeNet** and **VGG\_F** network structure.
 
 Network structure | Testing Accuracy 
 ----------------- | ----------------
-LeNet | 76.31%
-VGG_F | 78.92%
+LeNet | 78.07%
+VGG_F | 79.15%
 
