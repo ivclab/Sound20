@@ -78,3 +78,8 @@ Network structure | Testing Accuracy
 LeNet | 78.07%
 VGG_F | 79.15%
 
+### References
+
+[Recognizing Sounds (A Deep Learning Case Study)](https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d)
+
+[Animal Sound Data](http://alumni.cs.ucr.edu/~yhao/animalsoundfingerprint.html)
